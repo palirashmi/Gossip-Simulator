@@ -1,0 +1,169 @@
+run 30 line gossip
+compile
+run 30 line gossip
+run 3000 line gossip
+run 30000 line gossip
+run 30000 line push-sum
+run 30000 line gossip
+run 300 line gossip
+run 3000 line gossip
+run 30000 line gossip
+run 30 line push-sum
+compile
+run 30 line push-sum
+run 300 line push-sum
+run 300 full push-sum
+run 300 line push-sum
+run 30 line push-sum
+run 10 line push-sum
+run 300 line gossip
+run 3000 line gossip
+run 5000 line gossip
+run 10000 line gossip
+run 10 full push-sum
+compile
+run 5 full push-sum
+run 10 full push-sum
+run 2 full push-sum
+run 10 full push-sum
+run 7 full push-sum
+compile
+run 7 full push-sum
+run 70 full push-sum
+run 70 line push-sum
+run 10 line push-sum
+run 10 line GOSSIP
+run 10 line gossip
+run 100 line gossip
+run 1000 line gossip
+run 10000 line gossip
+run 100 line gossip
+run 10 line gossip
+run 10 line PUSHSUM
+run 10 line push-sum
+run 100 line push-sum
+run 500 line push-sum
+run 1000 line push-sum
+run 500 line push-sum
+run 10 line push-sum
+run 100 line push-sum
+run 1000 line push-sum
+run 1O LINE GOSSIP
+run 1O line gossip
+run 10 line gossip
+run 100 line gossip
+run 1000 line gossip
+run 10000 line gossip
+run 10 full gossip
+run 10 full push-sum
+run 100 full push-sum
+run 1000 full push-sum
+run 2500 full push-sum
+run 50 full push-sum
+run 1000 line gossip
+run 10 line gossip
+compile
+run 10 3D gossip
+compile
+run 10 3D gossip
+compile
+run 10 3D gossip
+run 16 3D gossip
+run 10 3D gossip
+run 100 3D gossip
+run 1000 3D gossip
+run 10 3D push-sum
+run 15 3D push-sum
+run 67 3D push-sum
+run 630 3D push-sum
+run 30 3D push-sum
+compile
+run 30 imp3D push-sum
+run 68 imp3D push-sum
+run 3d full possip
+run 3 3d possip
+run 3 3d poss
+run 3 3d gossip
+run 10 3d gossip
+clean
+compile
+run 10 3D gossip
+run 100 3D gossip
+run 27 3D gossip
+run 35 3D gossip
+run 50 3D gossip
+run 100 3D gossip
+run 200 3D gossip
+run 500 3D gossip
+run 1000 3D gossip
+run 5000 3D gossip
+run 10000 3D gossip
+run 25000 3D gossip
+run 50000 3D gossip
+run 10 3D PUSH-SUM
+run 50 3D PUSH-SUM
+run 100 3D PUSH-SUM
+run 500 3D PUSH-SUM
+run 1000 3D PUSH-SUM
+run 5000 3D PUSH-SUM
+run 25000 3D PUSH-SUM
+run 50000 3D PUSH-SUM
+run 10 imp3D gossip
+run 50 imp3D gossip
+run 100 imp3D gossip
+run 500 imp3D gossip
+run 1000 imp3D gossip
+run 5000 imp3D gossip
+run 25000 imp3D gossip
+run 50000 imp3D gossip
+sbt
+run 50000 imp3D gossip
+run 10000 line gossip
+run 1000 line gossip
+run 100 line gossip
+run 10 imp3D gossip
+run 10 imp3D push-sum
+run 50 imp3D push-sum
+run 100 imp3D push-sum
+run 500 imp3D push-sum
+run 1000 imp3D push-sum
+run 5000 imp3D push-sum
+run 25000 imp3D push-sum
+run 500 line gossip
+run 5000 line gossip
+run 25000 line gossip
+run 5000 line push-sum
+run 7500 line push-sum
+run 10000 line push-sum
+run 5000 line push-sum
+run 5000 full gossip
+run 500 full gossip
+run 500 full push-sum
+run 5000 full push-sum
+run 4000 full push-sum
+run 3000 full push-sum
+run 2000 full push-sum
+run 5000 full gossip
+run 2000 full gossip
+clean
+compile
+run 2000 full gossip
+run 1000 line gossip
+run 2000 line gossip
+run 2000 3D gossip
+clean
+compile
+run 3000 3D gossip
+run 1000 full gossip
+run 5000 3d gossip
+run 1000 full gossip
+clean
+compile
+run 1000 full gossip
+run 250 full gossip
+run 1250 line gossip
+run 1250 3d gossip
+run 1250 imp3d push-sum
+run 1250 line3d push-sum
+run 1250 line push-sum
+run 1200 line push-sum
